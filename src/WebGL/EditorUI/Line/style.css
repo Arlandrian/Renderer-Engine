@@ -1,0 +1,26 @@
+.line {
+  border: 1px;
+}
+
+.line input {
+  width: 20%;
+  text-align: center;
+  margin-top: 12px;
+  border: solid 2px #ffffff;
+  flex-wrap: wrap;
+}
+
+.background-line {
+  text-align: center;
+}
+
+.background-line input {
+  text-align: center;
+  border: solid 2px #ffffff;
+  width: 33%;
+}
+
+.line button {
+  border: 2px solid red;
+  width: 40%;
+}

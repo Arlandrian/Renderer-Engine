@@ -1,0 +1,8 @@
+Minimal example to include texture coordinates / vt in OBJ format:
+
+File -> New
+Change from Object Mode to Edit Mode
+Click Shading / UVs from the upper left vertical aligned tabs
+Under UV Mapping, change from Unwrap to Cube Projection under
+Export to OBJ
+Conclusion: The key to include vt in OBJ is step 4. Step 4 is only available in Edit Mode.
